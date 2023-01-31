@@ -2,7 +2,7 @@
 
 This is my personal portfolio.
 
-## To Access The Porfolio##
+## To Access The Porfolio ##
 Please click on link:
 https://mandan21.github.io/portfolio/
 
