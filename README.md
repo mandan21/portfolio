@@ -1,7 +1,7 @@
 ### HI EVERYONE###
 
 
-In this project I created my personal portfolio using HTML and CSS.
+In this project I created my personal portfolio website using HTML and CSS.
 Built and deployed using Github pages.
 
 DEMO WEBSITE:
