@@ -1,8 +1,8 @@
-HI EVERYONE.
+## HI EVERYONE. ##
 
 This is my personal portfolio.
 
-## To Access ##
+## To Access The Porfolio##
 Please click on link:
 https://mandan21.github.io/portfolio/
 
